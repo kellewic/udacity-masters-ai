@@ -21,7 +21,7 @@ These are the Nanodegrees I chose as electives where 750 hours are required. I o
 
 - [React](https://www.udacity.com/course/react-nanodegree--nd019)
     - [Project 1: MyReads - Book Tracking App](https://github.com/kellewic/react-nanodegree-project1)
-    - Project 2: Employee Polls Web App
+    - [Project 2: Employee Polls Web App](https://github.com/kellewic/react-nanodegree-project2)
 - [Introduction to Machine Learning with TensorFlow](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 - [Artificial Intelligence](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
 - [Natural Language Processing](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
