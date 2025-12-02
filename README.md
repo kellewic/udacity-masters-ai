@@ -84,6 +84,12 @@ From Udacity's website:
 - **Database**: SQL, Query Optimization
 </details>
 
+<p></p>
+
+**🔗 Projects**:
+
+- [Project 1: Investigate a Dataset - TMDb Movie Data](https://github.com/kellewic/data-analyst-nanodegree-projects/tree/main/project1)
+
 ---
 
 ### ⬜ [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
