@@ -89,6 +89,7 @@ From Udacity's website:
 **🔗 Projects**:
 
 - [Project 1: Investigate a Dataset - TMDb Movie Data](https://github.com/kellewic/data-analyst-nanodegree-projects/tree/main/project1)
+- [Project 2: Real-World Data Wrangling - Movie Data](https://github.com/kellewic/data-analyst-nanodegree-projects/tree/main/project2)
 
 ---
 
