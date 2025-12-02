@@ -41,9 +41,9 @@ From Udacity's website:
 
 ---
 
-### ⬜ [Statistics for Data Analysis](https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588)
+### ✅ [Statistics for Data Analysis](https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588)
 
-![Hours](https://img.shields.io/badge/Hours-64-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Nov_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-64-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/0a89c998-c863-11f0-aeb6-673c162c3cea)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -73,7 +73,7 @@ From Udacity's website:
 
 ### ⬜ [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-![Hours](https://img.shields.io/badge/Hours-43-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-43-lightgrey?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -141,7 +141,7 @@ From Udacity's website:
 
 ### ✅ [React](https://www.udacity.com/course/react-nanodegree--nd019)
 
-![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Nov_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-39-blueviolet?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Nov_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-39-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/0991438e-b979-11f0-ac4c-0bfb99d86a73)
 
 <details>
 <summary>📚 Key Skills</summary>
