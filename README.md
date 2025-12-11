@@ -12,9 +12,9 @@ _✨ Exceeding elective requirements by 67 hours_
 
 ## 📊 My Program Progress
 
-![Total Hours](https://img.shields.io/badge/Total_Hours-39%2F1%2C208-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-3.2%25-red?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Hours-146%2F1%2C208-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-12.1%25-red?style=for-the-badge)
 
-![Core: In Progress](https://img.shields.io/badge/Core-0%2F7_Complete_%7C_0%2F391_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
+![Core: In Progress](https://img.shields.io/badge/Core-2%2F7_Complete_%7C_107%2F391_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
 
 ---
 
