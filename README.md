@@ -73,7 +73,7 @@ From Udacity's website:
 
 ### ⬜ [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
-![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-43-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Dec_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-43-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/54b00826-cbf5-11f0-8cf2-93d6a3ddb582)
 
 <details>
 <summary>📚 Key Skills</summary>
