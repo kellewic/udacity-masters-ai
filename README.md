@@ -2,9 +2,9 @@
 
 [![Institution](https://img.shields.io/badge/Udacity-Master_of_Science_in_AI-4889d4?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com/masters-artificial-intelligence)
 
-![Total Required](https://img.shields.io/badge/Total_Hours_Required-1%2C141-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![My Total](https://img.shields.io/badge/My_Hours_Total-1%2C208-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
+![Total Required](https://img.shields.io/badge/Total_Hours_Required-1%2C120-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![My Total](https://img.shields.io/badge/My_Hours_Total-1%2C187-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
 
-![Core Required](https://img.shields.io/badge/Core-391_Hours-9cf?style=flat-square) ![Electives Required](https://img.shields.io/badge/Electives-750%2B_Hours-9cf?style=flat-square) ![My Electives](https://img.shields.io/badge/My_Electives-817_Hours-85d5ad?style=flat-square)
+![Core Required](https://img.shields.io/badge/Core-370_Hours-9cf?style=flat-square) ![Electives Required](https://img.shields.io/badge/Electives-750%2B_Hours-9cf?style=flat-square) ![My Electives](https://img.shields.io/badge/My_Electives-817_Hours-85d5ad?style=flat-square)
 
 _✨ Exceeding elective requirements by 67 hours_
 
@@ -28,16 +28,18 @@ From Udacity's website:
 
 ### 🔄 [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
-![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-73-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-52-lightgrey?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
 
 - **Programming**: Python, NumPy, Pandas, Matplotlib
-- **Mathematics**: Linear Algebra, Calculus
+- **Mathematics**: Linear Algebra, Calculus (original course before Dec. 2025 update)
 - **Neural Networks**: PyTorch, Model Training
 - **Development**: Jupyter Notebooks, Git
 </details>
+<p> </p>
+<p><b>Note:</b> This course was updated December 12, 2025 when I was 96% done. I decided to restart it to get the new project content.</p>
 
 ---
 
