@@ -12,9 +12,9 @@ _✨ Exceeding elective requirements by 67 hours_
 
 ## 📊 My Program Progress
 
-![Total Hours](https://img.shields.io/badge/Total_Hours-146%2F1%2C208-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-12.1%25-red?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Hours-198%2F1%2C208-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-16.4%25-red?style=for-the-badge)
 
-![Core: In Progress](https://img.shields.io/badge/Core-2%2F7_Complete_%7C_107%2F391_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
+![Core: In Progress](https://img.shields.io/badge/Core-3%2F7_Complete_%7C_159%2F391_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
 
 ---
 
@@ -28,7 +28,7 @@ From Udacity's website:
 
 ### 🔄 [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
-![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-52-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Dec_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-52-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/eda262f4-b5de-11f0-96a9-7336b744cdbb)
 
 <details>
 <summary>📚 Key Skills</summary>
