@@ -12,9 +12,9 @@ _✨ Exceeding elective requirements by 67 hours_
 
 ## 📊 My Program Progress
 
-![Total Hours](https://img.shields.io/badge/Total_Hours-198%2F1%2C208-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-16.4%25-red?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Hours-198%2F1%2C187-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-16.7%25-red?style=for-the-badge)
 
-![Core: In Progress](https://img.shields.io/badge/Core-3%2F7_Complete_%7C_159%2F391_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
+![Core: In Progress](https://img.shields.io/badge/Core-3%2F7_Complete_%7C_159%2F370_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
 
 ---
 
@@ -26,7 +26,7 @@ From Udacity's website:
 
 ## 🎯 Core Nanodegree Programs (7 Required)
 
-### 🔄 [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
+### ✅ [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
 ![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Dec_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-52-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/eda262f4-b5de-11f0-96a9-7336b744cdbb)
 
@@ -58,9 +58,9 @@ From Udacity's website:
 
 ---
 
-### ⬜ [Introduction to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+### 🔄 [Introduction to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 
-![Hours](https://img.shields.io/badge/Hours-49-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Dec_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -73,7 +73,7 @@ From Udacity's website:
 
 ---
 
-### ⬜ [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+### ✅ [Data Analyst](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 ![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Dec_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-43-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/54b00826-cbf5-11f0-8cf2-93d6a3ddb582)
 
@@ -172,9 +172,9 @@ From Udacity's website:
 
 ---
 
-### ⬜ [Introduction to Machine Learning with TensorFlow](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+### 🔄 [Introduction to Machine Learning with TensorFlow](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 
-![Hours](https://img.shields.io/badge/Hours-49-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -396,6 +396,9 @@ From Udacity's website:
 2025
 └── Oct: 🔄 Started AI Programming with Python
 └── Nov: ✅ Completed React Nanodegree
+└── Dec: 🔄 Started Introduction to Machine Learning with PyTorch
+2026
+└── Jan: 🔄 Started Introduction to Machine Learning with TensorFlow
 ```
 
 ---
