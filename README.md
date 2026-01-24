@@ -60,7 +60,7 @@ From Udacity's website:
 
 ### ✅ [Introduction to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 
-![Started](https://img.shields.io/badge/Started-Dec_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Jan_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Dec_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Jan_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/89cfc098-e106-11f0-a2e0-3f1c9dc17d4c)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -174,7 +174,7 @@ From Udacity's website:
 
 ### ✅ [Introduction to Machine Learning with TensorFlow](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 
-![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Jan_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Jan_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/49c0508e-eb25-11f0-b483-1bedcb9f6d62)
 
 <details>
 <summary>📚 Key Skills</summary>
