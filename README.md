@@ -12,9 +12,9 @@ _✨ Exceeding elective requirements by 67 hours_
 
 ## 📊 My Program Progress
 
-![Total Hours](https://img.shields.io/badge/Total_Hours-198%2F1%2C187-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-16.7%25-red?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Hours-296%2F1%2C187-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-24.9%25-orange?style=for-the-badge)
 
-![Core: In Progress](https://img.shields.io/badge/Core-3%2F7_Complete_%7C_159%2F370_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-1%2F14_Complete_%7C_39%2F817_Hours-9cf?style=flat-square)
+![Core: In Progress](https://img.shields.io/badge/Core-4%2F7_Complete_%7C_208%2F370_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-2%2F14_Complete_%7C_88%2F817_Hours-9cf?style=flat-square)
 
 ---
 
@@ -58,9 +58,9 @@ From Udacity's website:
 
 ---
 
-### 🔄 [Introduction to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
+### ✅ [Introduction to Machine Learning with PyTorch](https://www.udacity.com/course/intro-to-machine-learning-nanodegree--nd229)
 
-![Started](https://img.shields.io/badge/Started-Dec_2025-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Dec_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Jan_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -172,9 +172,9 @@ From Udacity's website:
 
 ---
 
-### 🔄 [Introduction to Machine Learning with TensorFlow](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
+### ✅ [Introduction to Machine Learning with TensorFlow](https://www.udacity.com/course/intro-to-machine-learning-with-tensorflow-nanodegree--nd230)
 
-![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Jan_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-49-blueviolet?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -398,14 +398,15 @@ From Udacity's website:
 └── Nov: ✅ Completed React Nanodegree
 └── Dec: 🔄 Started Introduction to Machine Learning with PyTorch
 2026
-└── Jan: 🔄 Started Introduction to Machine Learning with TensorFlow
+└── Jan: ✅ Completed Introduction to Machine Learning with PyTorch
+└── Jan: ✅ Completed Introduction to Machine Learning with TensorFlow
 ```
 
 ---
 
 <div align="center">
 
-**Last Updated**: November 2025
+**Last Updated**: January 2026
 
 _Committed to continuous learning_
 
