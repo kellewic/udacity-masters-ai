@@ -28,7 +28,7 @@ From Udacity's website:
 
 ### ✅ [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
-![Started](https://img.shields.io/badge/Started-Nov_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Dec_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-52-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/eda262f4-b5de-11f0-96a9-7336b744cdbb)
+![Started](https://img.shields.io/badge/Started-Oct_2025-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Dec_2025-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-52-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/eda262f4-b5de-11f0-96a9-7336b744cdbb)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -411,6 +411,7 @@ From Udacity's website:
 2025
 └── Oct: 🔄 Started AI Programming with Python
 └── Nov: ✅ Completed React Nanodegree
+└── Dec: ✅ Completed AI Programming with Python
 └── Dec: 🔄 Started Introduction to Machine Learning with PyTorch
 2026
 └── Jan: ✅ Completed Introduction to Machine Learning with PyTorch
