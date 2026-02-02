@@ -2,9 +2,9 @@
 
 [![Institution](https://img.shields.io/badge/Udacity-Master_of_Science_in_AI-4889d4?style=for-the-badge&logo=udacity&logoColor=white)](https://www.udacity.com/masters-artificial-intelligence)
 
-![Total Required](https://img.shields.io/badge/Total_Hours_Required-1%2C120-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![My Total](https://img.shields.io/badge/My_Hours_Total-1%2C187-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
+![Total Required](https://img.shields.io/badge/Total_Hours_Required-1%2C120-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![My Total](https://img.shields.io/badge/My_Hours_Total-1%2C215-blueviolet?style=for-the-badge&logo=clockify&logoColor=white)
 
-![Core Required](https://img.shields.io/badge/Core-370_Hours-9cf?style=flat-square) ![Electives Required](https://img.shields.io/badge/Electives-750%2B_Hours-9cf?style=flat-square) ![My Electives](https://img.shields.io/badge/My_Electives-817_Hours-85d5ad?style=flat-square)
+![Core Required](https://img.shields.io/badge/Core-398_Hours-9cf?style=flat-square) ![Electives Required](https://img.shields.io/badge/Electives-750%2B_Hours-9cf?style=flat-square) ![My Electives](https://img.shields.io/badge/My_Electives-817_Hours-85d5ad?style=flat-square)
 
 _✨ Exceeding elective requirements by 67 hours_
 
@@ -12,19 +12,19 @@ _✨ Exceeding elective requirements by 67 hours_
 
 ## 📊 My Program Progress
 
-![Total Hours](https://img.shields.io/badge/Total_Hours-296%2F1%2C187-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-24.9%25-orange?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Hours-296%2F1%2C215-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-24.4%25-orange?style=for-the-badge)
 
-![Core: In Progress](https://img.shields.io/badge/Core-4%2F7_Complete_%7C_208%2F370_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-2%2F14_Complete_%7C_88%2F817_Hours-9cf?style=flat-square)
+![Core: In Progress](https://img.shields.io/badge/Core-4%2F8_Complete_%7C_208%2F398_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-2%2F14_Complete_%7C_88%2F817_Hours-9cf?style=flat-square)
 
 ---
 
 From Udacity's website:
 
-> Build your foundation with 7 industry-relevant Nanodegrees covering AI programming, data science, machine learning, cloud, and applied AI use cases.
+> Build your foundation with 8 industry-relevant Nanodegrees covering AI programming, data science, machine learning, cloud, and applied AI use cases.
 
 ---
 
-## 🎯 Core Nanodegree Programs (7 Required)
+## 🎯 Core Nanodegree Programs (8 Required)
 
 ### ✅ [AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
@@ -141,6 +141,21 @@ From Udacity's website:
 
 ---
 
+### 🔄 Ethics in AI for AI Masters Program
+
+![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-28-blueviolet?style=flat-square&logo=clockify)
+
+<details>
+<summary>📚 Key Skills</summary>
+
+- **Ethical AI**: AI Fairness, AI Transparency, Ethical AI Awareness
+- **Governance**: AI Governance, Model Bias Analysis, Model Bias Mitigation
+- **Explainability**: Explainable AI, Accountable Decision-Making
+- **Inclusive Design**: Accessible User Experience Design, Supporting People with Disabilities
+</details>
+
+---
+
 From Udacity's website:
 
 > Customize your journey by choosing from a wide set of electives. Complete at least 750 hours across AI, data science, engineering, and business programs to deepen your expertise where it matters most.
@@ -187,9 +202,9 @@ From Udacity's website:
 
 ---
 
-### ⬜ [Artificial Intelligence](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
+### 🔄 [Artificial Intelligence](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898)
 
-![Hours](https://img.shields.io/badge/Hours-40-lightgrey?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-40-blueviolet?style=flat-square&logo=clockify)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -400,6 +415,8 @@ From Udacity's website:
 2026
 └── Jan: ✅ Completed Introduction to Machine Learning with PyTorch
 └── Jan: ✅ Completed Introduction to Machine Learning with TensorFlow
+└── Jan: 🔄 Started Ethics in AI for AI Masters Program
+└── Jan: 🔄 Started Artificial Intelligence
 ```
 
 ---
