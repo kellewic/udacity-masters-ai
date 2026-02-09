@@ -12,9 +12,9 @@ _✨ Exceeding elective requirements by 67 hours_
 
 ## 📊 My Program Progress
 
-![Total Hours](https://img.shields.io/badge/Total_Hours-296%2F1%2C215-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-24.4%25-orange?style=for-the-badge)
+![Total Hours](https://img.shields.io/badge/Total_Hours-324%2F1%2C215-blueviolet?style=for-the-badge&logo=clockify&logoColor=white) ![Overall Progress](https://img.shields.io/badge/Overall_Progress-26.7%25-orange?style=for-the-badge)
 
-![Core: In Progress](https://img.shields.io/badge/Core-4%2F8_Complete_%7C_208%2F398_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-2%2F14_Complete_%7C_88%2F817_Hours-9cf?style=flat-square)
+![Core: In Progress](https://img.shields.io/badge/Core-5%2F8_Complete_%7C_236%2F398_Hours-9cf?style=flat-square) ![Electives: In Progress](https://img.shields.io/badge/Electives-2%2F14_Complete_%7C_88%2F817_Hours-9cf?style=flat-square)
 
 ---
 
@@ -141,9 +141,9 @@ From Udacity's website:
 
 ---
 
-### 🔄 Ethics in AI for AI Masters Program
+### ✅ Ethics in AI for AI Masters Program
 
-![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-28-blueviolet?style=flat-square&logo=clockify)
+![Started](https://img.shields.io/badge/Started-Jan_2026-9cf?style=flat-square) ![Completed](https://img.shields.io/badge/Completed-Feb_2026-85d5ad?style=flat-square) ![Hours](https://img.shields.io/badge/Hours-28-blueviolet?style=flat-square&logo=clockify) [![Certificate](https://img.shields.io/badge/📜_View_Certificate-85d5ad?style=flat-square&logo=acclaim)](https://www.udacity.com/certificate/e/2d3a3f62-fd61-11f0-812e-ab44a7b7f82b)
 
 <details>
 <summary>📚 Key Skills</summary>
@@ -418,13 +418,14 @@ From Udacity's website:
 └── Jan: ✅ Completed Introduction to Machine Learning with TensorFlow
 └── Jan: 🔄 Started Ethics in AI for AI Masters Program
 └── Jan: 🔄 Started Artificial Intelligence
+└── Feb: ✅ Completed Ethics in AI for AI Masters Program
 ```
 
 ---
 
 <div align="center">
 
-**Last Updated**: January 2026
+**Last Updated**: February 2026
 
 _Committed to continuous learning_
 
